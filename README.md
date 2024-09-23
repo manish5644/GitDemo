@@ -1,3 +1,3 @@
 # GitDemo
 This is git repository
-manish debey
+Author-- manish debey

@@ -1,2 +1,2 @@
 # GitDemo
-git repository
+This is git repository
